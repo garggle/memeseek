@@ -14,7 +14,7 @@ MemeSeek leverages DeepSeek AI to identify and predict viral meme trends before 
   - Market Data Feed Processors
   - On-chain Analytics Engine
   - Real-time Stream Processing
-  
+
 - **AI Processing Engine**
 
   - DeepSeek Neural Engine
@@ -83,6 +83,6 @@ MIT License - see the [LICENSE](LICENSE) file for details
 
 ## 🔗 Links
 
-- [Website](https://memeseek.io)
-- [Documentation](https://docs.memeseek.io)
+- [Website](https://memeseek.club)
+- [Documentation](https://docs.memeseek.club)
 - [Twitter](https://twitter.com/memeseek)
